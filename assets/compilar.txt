@@ -1,0 +1,1 @@
+g++ sapo.cpp -o pacman -std=c++20 -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio && ./pacman
